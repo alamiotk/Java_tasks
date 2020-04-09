@@ -1,3 +1,3 @@
 #task_4
 
-Kalkulator w oparciu o mXparser, wykorzystanie Swing
+Calculator based on mXparser. Swing. 
