@@ -1,4 +1,3 @@
 #task_1
 
-Prosty kalkulator konsolowy;
-Klasa abstrakcyjna, dziedziczenie, interfejsy
+A simple console calculator. Abstract class, inheritance, interfaces.
