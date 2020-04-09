@@ -1,4 +1,4 @@
 #task_1
 
 Prosty kalkulator konsolowy
-##Klasa abstrakcyjna, dziedziczenie, interfejsy
+Klasa abstrakcyjna, dziedziczenie, interfejsy
