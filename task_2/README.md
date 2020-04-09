@@ -1,3 +1,3 @@
 #task_2
 
-Kolekcje przedstawione na podstawie magazynu i listy produktów
+Collections. Warehouse, lists of products.
